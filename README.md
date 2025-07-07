@@ -43,5 +43,3 @@ Her retirement goal: **$1.5 million** by age 65 to maintain her lifestyle, trave
 
 This project was created as part of our **Master of Business Analytics** at the University of Auckland. It’s **not financial advice**, but if Emily takes the recommendations, I would probably sleep better at night.
 
-)
-
